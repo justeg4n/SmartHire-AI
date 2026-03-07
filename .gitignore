@@ -1,0 +1,15 @@
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore local images and sample CVs
+*.jpg
+*.png
+*.pdf
+
+# Ignore environment variables (where keys should live)
+.env
